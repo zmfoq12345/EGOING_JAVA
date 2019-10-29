@@ -1,6 +1,10 @@
+1========================================
 bin = binary / 2진수 0, 1 / 보통 실행파일이 들어있는 파일
 eclipse / Package Explorer 대신 Navigator
 
 HelloWorldApp.java ->컴파일
 HelloWorldApp.class->run
-(JavaVirtualMachine/JavaRuntimeEnvironment) java.exe
+( JavaVirtualMachine / JavaRuntimeEnvironment ) java.exe
+
+2========================================
+martin fowler / refactoring
